@@ -14,7 +14,7 @@
 
 ## 🎯 Overview
 
-**Katana-AI** is an intelligent backend system that leverages **computer vision** and **predictive analytics** to analyze t-shirt designs and forecast their market viability. Upload a design, get instant design analysis via Gemini Vision AI, and receive market performance predictions for multiple global regions.
+**Designlytics-AI** is an intelligent backend system that leverages **computer vision** and **predictive analytics** to analyze t-shirt designs and forecast their market viability. Upload a design, get instant design analysis via Gemini Vision AI, and receive market performance predictions for multiple global regions.
 
 ### Real-World Use Case
 
